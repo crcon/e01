@@ -344,7 +344,7 @@ const StrategyLayout = () => {
               </div>
               <div>
                 <div className="text-xs tracking-[0.25em] text-[#00b49d] font-semibold">— NATIONAL NETWORK</div>
-                <div className="text-base font-bold text-gray-900">全国布局 · 神经网络联动</div>
+                <div className="text-base font-bold text-gray-900 whitespace-nowrap">全国布局 · 赋能新型电力系统</div>
               </div>
             </div>
 
