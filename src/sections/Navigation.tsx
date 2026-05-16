@@ -59,7 +59,7 @@ const Navigation = () => {
                   isScrolled ? 'text-white' : 'text-[#00b49d]'
                 }`} />
               </div>
-              <span className={`hidden sm:block font-bold text-2xl leading-none transition-colors duration-300 ${
+              <span className={`hidden sm:block font-bold text-2xl leading-none whitespace-nowrap transition-colors duration-300 ${
                 isScrolled ? 'text-gray-900' : 'text-white'
               }`}>
                 易储数智能源
