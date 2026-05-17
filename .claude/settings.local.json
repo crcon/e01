@@ -22,7 +22,14 @@
       "Bash(ls /tmp/*.png /tmp/*.jpg /tmp/*.jpeg 2>/dev/null | head -20; ls ~/Downloads/*.png ~/Downloads/*.jpg 2>/dev/null | head -10)",
       "Bash(find /var/folders -name \"*.png\" -newer \"/Users/mac/Music/1.1 Github/1.0 发布版本/e01-企业介绍/public/images/hero-bg.jpg\" 2>/dev/null | head -20 *)",
       "Bash(python3 -c \"import sys,json; [print\\(json.dumps\\(json.loads\\(l\\), ensure_ascii=False, indent=2\\)[:500]\\) for l in sys.stdin]\")",
-      "Bash(python3)"
+      "Bash(python3)",
+      "Bash(pdftotext -layout \"/Users/mac/Desktop/9.0 企业介绍/1.3 企业介绍/政府方阵/独立储能纳入基础设施REITs核心概况.pdf\" -)",
+      "Bash(pdftotext -layout \"/Users/mac/Desktop/9.0 企业介绍/1.3 企业介绍/政府方阵/发改价格〔2025〕136号文核心概况.pdf\" -)",
+      "Bash(pdftotext -layout \"/Users/mac/Desktop/9.0 企业介绍/1.3 企业介绍/政府方阵/发改价格〔2026〕114号文核心概况.pdf\" -)",
+      "Bash(pdftotext -layout \"/Users/mac/Desktop/9.0 企业介绍/1.3 企业介绍/政府方阵/国家\\\\\"双碳\\\\\"战略部署核心概况.pdf\" -)",
+      "Bash(pdftotext -layout \"/Users/mac/Desktop/9.0 企业介绍/1.3 企业介绍/政府方阵/国家电网\\\\\"十五五\\\\\"4万亿投资计划核心概况 意.pdf\" -)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }
