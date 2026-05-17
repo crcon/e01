@@ -38,7 +38,7 @@ const policies: PolicyItem[] = [
     icon: FileText,
     date: '2024',
     code: '136 号文',
-    title: '配储革新',
+    title: '网侧储能',
     line: '取消强制配储 · 市场化转型',
     detail: '发改价格〔2025〕136号文标志着中国储能市场从强制配储的政策驱动阶段，进入以容量电价为核心的市场化驱动新阶段，独立储能商业模式实现根本性突破。',
     keyPoints: [
@@ -70,7 +70,7 @@ const policies: PolicyItem[] = [
     icon: Zap,
     date: '2025',
     code: '行动方案',
-    title: '规模化建设',
+    title: '规模破局',
     line: '80GW+ 装机 · 2500 亿投资',
     detail: '《新型储能规模化建设专项行动方案（2025—2027年）》是国家推动储能跨越式发展的重要部署，明确三年规模目标和配套政策，标志着新型储能正式进入规模化、体系化加速发展阶段。',
     keyPoints: [
@@ -86,7 +86,7 @@ const policies: PolicyItem[] = [
     icon: Building2,
     date: '2025',
     code: '六大支柱',
-    title: '国家支柱产业',
+    title: '支柱产业',
     line: '新型储能列入国家战略产业',
     detail: '新型储能被正式列入国家六大新兴支柱产业，上升为国家战略性产业，享受产业政策、财税支持、金融资源的优先配置，标志着储能产业从"配套设施"全面迈入"战略主体"的历史拐点。',
     keyPoints: [
@@ -103,7 +103,7 @@ const policies: PolicyItem[] = [
     icon: Landmark,
     date: '2025',
     code: 'REITs',
-    title: '准入REIT发行',
+    title: 'REITs准入',
     line: '独立储能纳入基础设施REITs',
     detail: '独立储能电站正式纳入国家基础设施公募REITs投资范围，为成熟储能资产开辟标准化资产证券化退出通道，打通"投资-运营-证券化-再投资"资本完整闭环，极大提升储能投资的资本效率。',
     keyPoints: [
