@@ -9,8 +9,7 @@ import {
   ArrowRight,
   Target,
   Users,
-  Award,
-  Globe
+  Award
 } from 'lucide-react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
