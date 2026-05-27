@@ -28,8 +28,24 @@
       "Bash(pdftotext -layout \"/Users/mac/Desktop/9.0 企业介绍/1.3 企业介绍/政府方阵/发改价格〔2026〕114号文核心概况.pdf\" -)",
       "Bash(pdftotext -layout \"/Users/mac/Desktop/9.0 企业介绍/1.3 企业介绍/政府方阵/国家\\\\\"双碳\\\\\"战略部署核心概况.pdf\" -)",
       "Bash(pdftotext -layout \"/Users/mac/Desktop/9.0 企业介绍/1.3 企业介绍/政府方阵/国家电网\\\\\"十五五\\\\\"4万亿投资计划核心概况 意.pdf\" -)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "Bash(git stash *)",
       "Bash(git add *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(gh repo *)",
+      "Bash(git config *)",
+      "Bash(security find-internet-password *)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(json.dumps\\(d, indent=2\\)\\)\")",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('URL:', d.get\\('html_url'\\), 'Status:', d.get\\('status'\\)\\)\")",
+      "Bash(python3 -m json.tool)",
+      "Bash(pdftotext -layout \"/Users/c/Movies/Air 备份/桌面/9.0 企业介绍/1.3 企业介绍/政府方阵/国家电网\\\\\"十五五\\\\\"4万亿投资计划核心概况 意.pdf\" -)",
+      "Bash(cat ~/.claude/settings.json 2>/dev/null | grep -A5 -i \"android\\\\|mcp\\\\|pullRequest\\\\|pull_request\" | head -50)",
+      "Bash(find ~/.claude -name \"*.json\" | xargs grep -l \"Android\\\\|android\" 2>/dev/null)",
+      "Bash(cat \"/Users/c/Library/Application Support/Claude/claude_desktop_config.json\" 2>/dev/null || echo \"not found\")",
+      "Bash(find /Users/c -name \"*.json\" -not -path \"*/node_modules/*\" -not -path \"*/.git/*\" 2>/dev/null | xargs grep -l -i \"android-mcp\\\\|Android-MCP\\\\|androidmcp\" 2>/dev/null | head -10)",
+      "Bash(git rebase *)"
     ]
   }
 }
