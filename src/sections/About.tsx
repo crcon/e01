@@ -33,11 +33,18 @@ const subsidiaries = [
     tag: '制造·集成',
   },
   {
+    icon: Battery,
+    name: '易储数智能源投资',
+    role: '开发投资',
+    description: '聚焦电网侧独立共享储能电站投资开发，在手项目56个、总容量39.62GWh，覆盖全国10+省份',
+    tag: '开发·投资',
+  },
+  {
     icon: HardHat,
-    name: '国峰电力EPC建设公司',
-    role: '工程总承包',
+    name: '国峰能建',
+    role: 'F.EPC+O',
     description: '电网侧储能电站EPC全流程工程管控，高效交付，在手56个项目',
-    tag: '建设·交付',
+    tag: '融资-建设-交付-运营',
   },
   {
     icon: BrainCircuit,
@@ -47,17 +54,10 @@ const subsidiaries = [
     tag: 'AI·运营',
   },
   {
-    icon: Globe,
-    name: '香港能源数智技术投资公司',
-    role: '全球布局',
-    description: '全球投资平台，布局东南亚、中东、欧洲等30+国家地区储能项目',
-    tag: '全球·投资',
-  },
-  {
     icon: Recycle,
-    name: '电池全生命周期',
-    role: '循环科技',
-    description: '从退役到再生，构建绿色闭环，助力产业可持续发展',
+    name: '国峰循环',
+    role: '回收循环',
+    description: '电池全生命周期管理，退役电池梯次利用与资源化回收，构建绿色闭环产业链',
     tag: '回收·循环',
   },
 ];
