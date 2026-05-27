@@ -43,7 +43,7 @@ const subsidiaries = [
     name: '国峰能建',
     role: 'F.EPC+O',
     description: '电网侧储能电站EPC全流程工程管控，高效交付，在手56个项目',
-    tag: '融资-建设-交付-运营',
+    tag: '融.建.交.运',
   },
   {
     icon: BrainCircuit,
